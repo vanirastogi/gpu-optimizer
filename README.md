@@ -6,6 +6,12 @@ This project is a full-stack web application that recommends GPU instances for m
 
 ---
 
+## 📦 vedio
+
+https://drive.google.com/drive/folders/1-6jZ99f2OEcus0QJTjH4sPeu16LmSyTb
+
+---
+
 ## 📦 Tech Stack
 
 - **Frontend**: React 19 + Vite + Axios
